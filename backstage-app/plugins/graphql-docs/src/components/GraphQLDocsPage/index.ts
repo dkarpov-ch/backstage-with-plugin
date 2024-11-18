@@ -1,0 +1,1 @@
+export { GraphQLDocsPage } from './GraphQLDocsPage';
